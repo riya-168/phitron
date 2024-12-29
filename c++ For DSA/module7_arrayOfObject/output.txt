@@ -1,0 +1,7 @@
+habib 4 92
+sakib 15 89
+takib 19 89
+rakib 10 75
+yakib 25 75
+akib 28 75
+dakib 20 65

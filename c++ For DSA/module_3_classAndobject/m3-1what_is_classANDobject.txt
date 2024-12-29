@@ -1,0 +1,5 @@
+class: class is group or set of various data type such as int ,char,string,double,float etc.Class is also a user deffine data type.
+object : object is variable of class.
+suppose int a .here int is a datatype and a is a variable.
+like that
+class is a datatype(user define) and its variable is called object.
